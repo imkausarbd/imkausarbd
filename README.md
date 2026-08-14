@@ -15,15 +15,29 @@ I build AI agents, chatbots, and workflow automation systems that help businesse
 
 ## Featured Project
 
-### AI Voice Receptionist — Ostad Academy
-A bilingual (English/Bangla) AI voice receptionist built on Retell AI, connected to 6 integrated n8n workflows via MCP:
-- Real-time course search & live class schedule lookup
-- Consultation booking with conflict handling
-- Lead capture with instant Telegram alerts
-- Human handoff with Gmail + Telegram notifications
-- Full conversation logging (transcript, summary, intent, sentiment)
+### 🎙️ AI Voice Receptionist — Ostad Academy
+Bilingual (English/Bangla) voice AI agent on Retell AI with 6 integrated n8n workflows via MCP: course search, schedule lookup, consultation booking, lead capture, human handoff, and full conversation logging.
+**Tools:** Retell AI, n8n, MCP, Google Sheets, Telegram API, Gmail API
 
-**Tools used:** Retell AI, n8n, MCP, Google Sheets, Telegram API, Gmail API
+### 📧 RAG-Based Email Support Agent
+An AI support agent that answers customer emails automatically using a Retrieval-Augmented Generation (RAG) pipeline, pulling accurate answers from a knowledge base instead of generic responses.
+**Tools:** n8n, Claude AI, Vector Database, Gmail API
+
+### 🏘️ AI Listings Assistant
+Automated property/product listing agent that scrapes and structures data using Apify, then processes it through an MCP-connected AI workflow.
+**Tools:** Apify, MCP, n8n, Claude AI
+
+### 📩 Cold Email Outreach Agent
+An automated outreach system that personalizes and sends cold emails at scale, tracking replies and follow-ups without manual effort.
+**Tools:** n8n, Claude AI, Email API
+
+### 📱 Facebook Comment-to-DM Automation
+Automatically detects comments on Facebook posts and triggers personalized direct messages, turning engagement into leads automatically.
+**Tools:** n8n, Facebook Graph API, Webhooks
+
+### 📊 CRM Data Transformation
+A workflow that cleans, restructures, and syncs messy CRM data automatically, keeping records consistent across platforms without manual data entry.
+**Tools:** n8n, Google Sheets, CRM APIs
 
 ---
 
