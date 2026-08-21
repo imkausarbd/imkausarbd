@@ -39,6 +39,10 @@ Automatically detects comments on Facebook posts and triggers personalized direc
 A workflow that cleans, restructures, and syncs messy CRM data automatically, keeping records consistent across platforms without manual data entry.
 **Tools:** n8n, Google Sheets, CRM APIs
 
+### 🎬 YouTube Automation Agent
+
+End-to-end AI video pipeline built on n8n that generates faceless/avatar YouTube videos automatically — from script writing to voiceover, video generation, and publishing. Covers script/idea generation, TTS, image-to-video, audio-video merging, and direct YouTube upload. **Tools:** n8n, OpenAI, ElevenLabs, Kling AI, fal.run, Google Drive, YouTube API
+
 ---
 
 ## 📫 Let's Connect
