@@ -17,15 +17,18 @@ I build AI agents, chatbots, and workflow automation systems that help businesse
 
 ### 🎙️ AI Voice Receptionist
 Bilingual (English/Bangla) voice AI agent on Retell AI with 6 integrated n8n workflows via MCP: course search, schedule lookup, consultation booking, lead capture, human handoff, and full conversation logging.
+
 **Tools:** Retell AI, n8n, MCP, Google Sheets, Telegram API, Gmail API
 
 ### 📧 RAG-Based Email Support Agent
 An AI support agent that answers customer emails automatically using a Retrieval-Augmented Generation (RAG) pipeline, pulling accurate answers from a knowledge base instead of generic responses.
+
 **Tools:** n8n, Claude AI, Vector Database, Gmail API
 
 ### 🎬 YouTube Automation Agent
 
 End-to-end AI video pipeline built on n8n that generates faceless/avatar YouTube videos automatically — from script writing to voiceover, video generation, and publishing. Covers script/idea generation, TTS, image-to-video, audio-video merging, and direct YouTube upload. 
+
 **Tools:** n8n, OpenAI, ElevenLabs, Kling AI, fal.run, Google Drive, YouTube API
 
 ### 🏘️ AI Listings Assistant
