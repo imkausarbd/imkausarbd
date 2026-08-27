@@ -64,29 +64,114 @@ Most automation freelancers connect a few apps and hand it off. I build systems 
 
 ## Projects
 
-**AI Receptionist** Retell AI + MCP + n8n. Handles calls 24/7 without adding staff.
+## Projects
+
+### AI Voice Receptionist
+Built a bilingual (English/Bangla) AI voice agent for an online education platform to eliminate missed calls and lost student leads. Answers inbound calls 24/7, looks up real-time course and schedule information, books consultations, captures leads automatically, and escalates urgent issues to a human.
+
+- Automated 100% of routine call handling, reducing missed-lead risk for the business
+- Integrated MCP-based tool-calling for real-time course search, scheduling, and lead capture
+- Built human-in-the-loop escalation with instant Telegram and email alerts for urgent requests
+
+**Tools:** Retell AI, n8n, MCP, Google Sheets, Telegram API, Gmail API
 [View repo](https://github.com/imkausarbd/Ai-Receptionist)
 
-**RAG-Based Email Support Agent**  Answers customer emails using company data, cutting response time from hours to minutes.
+---
+
+### RAG-Based Email Customer Support Agent
+Built an AI-powered email support agent using Retrieval-Augmented Generation (RAG) to eliminate repetitive manual replies and inaccurate generic AI responses. Pulls answers directly from the business's own knowledge base for fast, accurate, on-brand replies.
+
+- Reduced average response time from hours to minutes using automated RAG-based replies
+- Connected a vector database to Claude AI for accurate, context-aware email responses
+
+**Tools:** n8n, Claude AI, Vector Database, Gmail API
 [View repo](https://github.com/imkausarbd/RAG-Based-Email-Customer-Support-Agent-)
 
-**YouTube Automation Agent**  Automates the content pipeline for consistent publishing.
+---
+
+### CRM Data Transformation & Automation
+Built an automation that validates, cleans, and restructures incoming CRM data on a schedule, keeping records consistent across platforms so sales and support teams can trust their CRM without manual spreadsheet cleanup.
+
+- Eliminated manual weekly CRM cleanup through scheduled data validation and transformation
+
+**Tools:** n8n, Google Sheets, CRM APIs
+
+---
+
+### YouTube Automation Agent
+Built an end-to-end content pipeline that automates video production for consistent publishing without manual editing work.
+
+- Automated script generation, voiceover, and video assembly into one pipeline
+- Removed manual bottlenecks that previously limited publishing frequency
+
+**Tools:** n8n, OpenAI, ElevenLabs, Kling AI, fal.run, Google Drive, YouTube API
 [View repo](https://github.com/imkausarbd/YouTube-Automation-Agent)
 
-**AI Listings Assistant**  Apify + MCP. Turns live listing data into instant Q&A instead of manual searching.
+---
 
-**Cold Email Outreach Agent**  Automated, personalized outreach at scale, lead to reply.
+### AI Listings Assistant
+Built a system that scrapes and structures live listing data, then answers questions about it instantly instead of requiring manual searching.
 
-**Facebook Comment-to-DM Automation**  Catches and follows up with leads the moment they comment.
+- Automated data collection from live listings using Apify
+- Connected structured data to an MCP-based AI agent for instant Q&A
 
+**Tools:** Apify, MCP, n8n, Claude AI
 
-**AI News Research Automation**  Turns hours of manual research into minutes of reading.
+---
 
-**Personal Productivity Assistant**  Built with Claude Projects & Skills for daily workflow management.
+### Cold Email Outreach Agent
+Built an automated outreach system that personalizes cold emails at scale without sounding templated, tracking the full lead-to-reply cycle.
 
-**Automated Student Assignment Collection System**  Eliminates missed and duplicate submissions.
+- Automated personalized email generation for each lead
+- Tracked replies and follow-ups without manual monitoring
 
-**Auto-Save Leads to Google Sheets**  Make.com. Zero lead leakage, real-time CRM updates.
+**Tools:** n8n, Claude AI, Email API
+
+---
+
+### Facebook Comment-to-DM Automation
+Built an automation that detects comments on posts and follows up with leads via DM the moment they engage, before competitors respond.
+
+- Reduced lead response time from hours to seconds
+- Automated detection and personalized DM outreach in a single workflow
+
+**Tools:** n8n, Facebook Graph API, Webhooks
+
+---
+
+### AI News Research Automation
+Built a research automation that collects and summarizes relevant news, turning hours of manual reading into a few minutes.
+
+- Automated research collection and summarization on a schedule
+
+**Tools:** n8n
+
+---
+
+### Personal Productivity Assistant
+Built a custom AI assistant using Claude Projects & Skills for daily workflow management and task tracking.
+
+- Centralized daily planning and task management into a single AI-assisted workflow
+
+**Tools:** Claude Projects, Claude Skills
+
+---
+
+### Automated Student Assignment Collection System
+Built an automation that collects, validates, and organizes student assignment submissions, eliminating missed and duplicate entries.
+
+- Eliminated manual tracking of submissions and reduced administrative overhead
+
+**Tools:** Make.com
+
+---
+
+### Auto-Save Leads to Google Sheets
+Built an automation that captures new leads in real time and saves them directly to Google Sheets, preventing lead loss between capture and CRM entry.
+
+- Achieved zero lead leakage with real-time CRM updates
+
+**Tools:** Make.com
 
 ---
 
