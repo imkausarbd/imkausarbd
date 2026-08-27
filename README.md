@@ -21,12 +21,11 @@ Most automation freelancers connect a few apps and hand it off. I build systems 
 
 ## About
 
-- Currently working on: AI Receptionist and RAG-based support systems
-- Looking to collaborate on: n8n / Make.com automation, MCP-based agents
-- Looking for help with: scaling automation systems for production use
-- Currently learning: advanced multi-agent systems with Claude & MCP
-- Ask me about: n8n, Make.com, Claude AI, RAG, MCP, workflow automation
-
+Currently building: AI agents and automation systems for client projects across support, sales, and operations
+Open to collaborating on: n8n / Make.com automation projects and MCP-based AI agent development
+Looking for guidance on: scaling automation workflows for high-volume production environments
+Currently deepening my expertise in: advanced multi-agent orchestration using Claude and MCP
+Happy to discuss: n8n, Make.com, Claude AI, RAG pipelines, MCP, and workflow automation strategy
 ---
 
 ## What I build
