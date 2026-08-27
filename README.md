@@ -4,11 +4,11 @@
 
 ### AI Automation Engineer — n8n · Make.com · Claude AI · MCP
 
-I build AI agents, chatbots, and automation systems that take over repetitive manual work — customer support, lead handling, data entry, outreach — so teams spend less time on tasks that don't need a human.
+I build AI agents, chatbots, and automation systems that take over repetitive manual work — customer support, lead handling, data entry, outreach so teams spend less time on tasks that don't need a human.
 
 Most automation freelancers connect a few apps and hand it off. I build systems that are tested in real business use, not just demoed once.
 
-📍 Sylhet, Bangladesh — working with clients worldwide
+📍 Sylhet, Bangladesh  working with clients worldwide
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Most automation freelancers connect a few apps and hand it off. I build systems 
 ## What I build
 
 - AI agents and chatbots for customer support, lead handling, and voice reception
-- Workflow automation with n8n and Make.com — CRM sync, lead capture, data entry
+- Workflow automation with n8n and Make.com, CRM sync, lead capture, data entry
 - REST API and webhook integration between existing business tools
 - RAG-powered assistants that answer questions from a company's own data
 - MCP-based agents for advanced, tool-using automation
@@ -43,13 +43,13 @@ Most automation freelancers connect a few apps and hand it off. I build systems 
 
 ## Skills
 
-**AI agent development** — MCP, Claude MCP & Claude Code, Claude Skills & Connectors, multi-agent systems, voice & data agents
+**AI agent development**  MCP, Claude MCP & Claude Code, Claude Skills & Connectors, multi-agent systems, voice & data agents
 
-**Automation platforms** — n8n, Make.com, APIs & webhooks, deployment
+**Automation platforms**  n8n, Make.com, APIs & webhooks, deployment
 
-**AI & data** — RAG, vector databases, data transformation
+**AI & data**  RAG, vector databases, data transformation
 
-**Data collection** — web scraping, lead generation automation
+**Data collection**  web scraping, lead generation automation
 
 <div align="center">
 
