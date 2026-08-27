@@ -62,7 +62,6 @@ Most automation freelancers connect a few apps and hand it off. I build systems 
 
 ---
 
-## Projects
 
 ## Projects
 
