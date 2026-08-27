@@ -70,24 +70,21 @@ Most automation freelancers connect a few apps and hand it off. I build systems 
 **RAG-Based Email Support Agent**  Answers customer emails using company data, cutting response time from hours to minutes.
 [View repo](https://github.com/imkausarbd/RAG-Based-Email-Customer-Support-Agent-)
 
+**YouTube Automation Agent**  Automates the content pipeline for consistent publishing.
+[View repo](https://github.com/imkausarbd/YouTube-Automation-Agent)
+
 **AI Listings Assistant**  Apify + MCP. Turns live listing data into instant Q&A instead of manual searching.
 
 **Cold Email Outreach Agent**  Automated, personalized outreach at scale, lead to reply.
 
 **Facebook Comment-to-DM Automation**  Catches and follows up with leads the moment they comment.
 
-**YouTube Automation Agent**  Automates the content pipeline for consistent publishing.
-[View repo](https://github.com/imkausarbd/YouTube-Automation-Agent)
 
 **AI News Research Automation**  Turns hours of manual research into minutes of reading.
 
 **Personal Productivity Assistant**  Built with Claude Projects & Skills for daily workflow management.
 
 **Automated Student Assignment Collection System**  Eliminates missed and duplicate submissions.
-
-**Student Info Finder**  Webhook + HTTP Request. Instant lookup instead of manual database search.
-
-**Unsplash Image Agent**  n8n-based visual sourcing for content pipelines.
 
 **Auto-Save Leads to Google Sheets**  Make.com. Zero lead leakage, real-time CRM updates.
 
