@@ -1,5 +1,6 @@
 <div align="center">
-[<img src="https://raw.githubusercontent.com/imkausarbd/imkausarbd/main/banner.png" width="100%"/>](https://raw.githubusercontent.com/imkausarbd/imkausarbd/main/banner.png)
+
+  
 </div>
 
 ### AI Automation Engineer — n8n · Make.com · Claude AI · MCP
